@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+ENV/
+.env
+.idea/
+.vscode/
+.mypy_cache/
+.pytest_cache/
+.DS_Store
+build/
+dist/
+languages_*.csv
